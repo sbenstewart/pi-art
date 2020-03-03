@@ -11,6 +11,8 @@ Before you begin, ensure you have met the following requirements:
 
 * You have the [jupyter notebook](https://github.com/jupyter/notebook/blob/master/README.md#installation) installed.
 
+* Microsoft Visual Studio 2019 Build Tools (https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2017) and add to Environment Variable.
+* For gmpy2 installation in Windows 10, install using pre-compiled binary files. 
 
 If the above are too complicated you can use the Python3 version of [Anaconda](https://www.anaconda.com/distribution/) which serves the same purpose. But requires a bit more of processing power and storage to install.
 
