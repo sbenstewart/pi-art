@@ -71,4 +71,4 @@ To contribute to pi-art, follow these steps:
 
 If you want to contact me you can reach me at <sbenstewart@gmail.com>.
 
-<h2>Have a great day :)</h2>
+**Have a great day :)**
