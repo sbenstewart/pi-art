@@ -58,7 +58,7 @@ The output will be an `image of pi` for the resolution specified.
 
 The output of the notebook will be stored in the file named `pi-art.png` in the same folder.
 
-![The photo](pi-art.png?raw=true "Pi-art")
+<img src="pi-art.png" alt="Pi-art" width="500">
 
 ## Contributing to pi-art
 To contribute to pi-art, follow these steps:
